@@ -23,3 +23,5 @@
 
 ./devcontainer/*
 .devcontainer/*
+log-go-grep
+*.log
